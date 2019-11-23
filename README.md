@@ -1,31 +1,31 @@
 # WhatsNext
-PROBLEM
-Difficult to recommend music to friends
-When you are at a party it is difficult to get your music played 
-People don't have a voice in choosing their song
+**PROBLEM**
+  - Difficult to recommend music to friends
+  - When you are at a party it is difficult to get your music played 
+  - People don't have a voice in choosing their song
 
 
-DATA DESIGN
-SignUp View controller
-https://stdlib.com/ for Twillio
-Like Queue in request
-Firebase
-User Collection
-Name
-Email
-Phone number
-Profile pic
-Host Collection
-Host user
-Geo Location of Event
-Rules for Event 
-Sub Collection for Song Queue
-Genre 
-Timestamp added
-Likes/Dislikes 
-User sent/Profile
+**DATA DESIGN**
+  - SignUp View controller
+  - https://stdlib.com/ for Twillio
+  - Like Queue in request
+  - Firebase
+      - User Collection
+         * Name
+         * Email
+         * Phone number
+         * Profile pic
+      - Host Collection
+         * Host user
+         * Geo Location of Event
+         * Rules for Event 
+         * Sub Collection for Song Queue
+            - Genre 
+            - Timestamp added
+            - Likes/Dislikes 
+            - User sent/Profile
 
-ARCHITECTURE DESIGN
+**ARCHITECTURE DESIGN**
 Sign in/ Sign up
 Users collection
 Check for duplicate users
