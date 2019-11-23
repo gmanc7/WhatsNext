@@ -1,4 +1,6 @@
-# WhatsNext
+# What'sNext
+
+What's next is a revolutionairy new platform that will allow users to connect to their peers and put up songs for requests. 
 **PROBLEM**
   - Difficult to recommend music to friends
   - When you are at a party it is difficult to get your music played 
